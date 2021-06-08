@@ -1,3 +1,5 @@
+annotations:
+    screwdriver.cd/restrictPR: all
 shared:
     image: node:12
 
